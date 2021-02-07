@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[INZ] SMS Two-step verification",
+    "description": "Two-step verification throw SMS.ru service",
+    "version_id": 2000170,
+    "version_string": "2.0.1",
+    "dev": "inzanty",
+    "dev_url": "https://t.me/inzanty",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "far fa-sms"
+}
