@@ -14,7 +14,7 @@ class User extends XFCP_User
     {
         $structure = parent::getStructure($structure);
 
-        $structure->columns['inztfa_phone_number'] = ['type' => self::STR, 'nullable' => true];
+        $structure->columns['inztfa_phone_number'] = ['type' => self::STR, 'default' => ''];
 
         return $structure;
     }
